@@ -3,12 +3,12 @@
   "description": "감사한 마음 잊지 않고 오랫동안 간직할게요.",
   "transfer": [
     {
-      "message": "xx에게 송금하기",
+      "message": "유선에게 송금하기",
       "link": "https://toss.me/송금으로결혼축하하기",
       "logo": "/assets/svg/tossbank.svg"
     },
     {
-      "message": "xx에게 송금하기",
+      "message": "사키에에게 송금하기",
       "link": "https://toss.me/축하하는마음보내기",
       "logo": "/assets/svg/tossbank.svg"
     }
